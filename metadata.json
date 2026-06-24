@@ -1,6 +1,0 @@
-{
-  "name": "SERVI",
-  "description": "Plataforma de servicios de reserva de citas para clientes, profesionales y administradores.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
